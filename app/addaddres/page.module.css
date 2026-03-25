@@ -1,0 +1,47 @@
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.flex img{
+    object-fit: contain;
+    width: 600px;
+    height: 650px;
+
+}
+.titleaddres{
+    padding:  10px;
+}
+.container{
+    margin: 100px;
+}
+.inp1{
+    margin: 10px;
+    width: 350px;
+    height: 50px;
+}
+.inp2{
+    margin: 10px;
+    width: 200px;
+    height: 50px;
+}
+.Address{
+    margin: 10px;
+    height: 150px;
+    width: 350px;
+}
+.divbtn{
+    margin: auto;
+}
+.btn{
+    width: 520px;
+    height: 50px;
+    background-color: rgb(247, 137, 2);
+    /* background: transparent; */
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    margin: auto;
+    text-align: center;
+    cursor: pointer;
+}
